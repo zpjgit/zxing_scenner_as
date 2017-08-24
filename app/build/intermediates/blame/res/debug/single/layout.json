@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\saomiao\\zxing_scenner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spiner_item_layout.xml",
+        "source": "C:\\saomiao\\zxing_scenner\\app\\src\\main\\res\\layout\\spiner_item_layout.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\zxing_scenner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_title.xml",
+        "source": "C:\\saomiao\\zxing_scenner\\app\\src\\main\\res\\layout\\zxing_title.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\zxing_scenner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\saomiao\\zxing_scenner\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\zxing_scenner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\task_progress_dialog.xml",
+        "source": "C:\\saomiao\\zxing_scenner\\app\\src\\main\\res\\layout\\task_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\zxing_scenner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "C:\\saomiao\\zxing_scenner\\app\\src\\main\\res\\layout\\zxing_capture.xml"
+    }
+]

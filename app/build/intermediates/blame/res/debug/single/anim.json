@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\saomiao\\zxing_scenner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim.xml",
+        "source": "C:\\saomiao\\zxing_scenner\\app\\src\\main\\res\\anim\\anim.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\zxing_scenner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle.xml",
+        "source": "C:\\saomiao\\zxing_scenner\\app\\src\\main\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\zxing_scenner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\saomiao\\zxing_scenner\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\zxing_scenner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake_x.xml",
+        "source": "C:\\saomiao\\zxing_scenner\\app\\src\\main\\res\\anim\\shake_x.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\zxing_scenner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale.xml",
+        "source": "C:\\saomiao\\zxing_scenner\\app\\src\\main\\res\\anim\\scale.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\zxing_scenner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\saomiao\\zxing_scenner\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\zxing_scenner\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake_y.xml",
+        "source": "C:\\saomiao\\zxing_scenner\\app\\src\\main\\res\\anim\\shake_y.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\saomiao\zxing_scenner\app\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="C:\saomiao\zxing_scenner\app\build\intermediates\pre-dexed\debug\zxing_4c902469d8f89775759458fddf1f19fc74fb91f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\saomiao\zxing_scenner\app\libs\Acadiatech_JSON.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7caeae167290b1f956875e5d2d3047ef69555f6c">
+        <dex dex="C:\saomiao\zxing_scenner\app\build\intermediates\pre-dexed\debug\Acadiatech_JSON_4270d4caea96dbe8dc80c33d9d8fc13600808d41.jar" />
+    </item>
+
+</items>
