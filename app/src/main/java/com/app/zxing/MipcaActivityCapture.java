@@ -29,7 +29,7 @@ import com.google.zxing.BarcodeFormat;
 import com.google.zxing.Result;
 /**
  * Initial the camera
- * @author YunXiang.Tang
+ *
  */
 public class MipcaActivityCapture extends Activity implements Callback {
 
@@ -108,7 +108,6 @@ public class MipcaActivityCapture extends Activity implements Callback {
 	}
 	
 	/**
-	 * ����ɨ����
 	 * @param result
 	 * @param barcode
 	 */

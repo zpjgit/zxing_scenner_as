@@ -39,7 +39,7 @@ public class MainActivity extends Activity {
 		case SCANNIN_GREQUEST_CODE:
 			if(resultCode == RESULT_OK){
 				Bundle bundle = data.getExtras();
-				//显示扫描到的内容
+				//显示扫描到的内容(我现在得不到图像只能得到数字)
 				et_device_number.setText(bundle.getString("result"));
 			}
 			break;
